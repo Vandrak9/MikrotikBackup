@@ -1,5 +1,5 @@
 <?php
-include '../config/Database.php';
+include '../config/database.php';
 include '../src/DeviceManager.php';
 
 $database = new Database();
